@@ -1,0 +1,141 @@
+Seq.,Organização,Unidade,Monitoramento,Iniciativas,Serviço,"Designador do 
+ Serviço","Mantenedor do 
+ Serviço",Valor acordado do SLA (%),,IDS (%),,IDSA (%),
+,,,,,,,,Mensal,"Acumulado 
+ 12 Meses",Mensal,"Acumulado 
+ 12 Meses",Mensal,"Acumulado 
+ 12 Meses"
+1,ACAFE,Sede,Disponibilidade ACAFE Florianópolis,REMEP-FLN,Conectividade à REMEP,#7328,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,998.048
+2,CBMSC,Centro de Ensino Bombeiro Militar,Disponibilidade Centro de Ensino Bombeiro Militar,REMEP-FLN,Conectividade à REMEP,#7374,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.791
+3,CERTI,CELTA,Disponibilidade CERTI Celta,REMEP-FLN,Conectividade à REMEP,#7357,REMEP-FLN,996.000,998.500,1.000.000,999.749,1.000.000,999.642
+4,CERTI,CERTI ISI,Disponibilidade CERTI ISI,REMEP-FLN,Conectividade à REMEP,#7359,REMEP-FLN,992.000,996.000,1.000.000,1.000.000,1.000.000,999.978
+5,CERTI,Certinho,Disponibilidade CERTI Certinho,REMEP-FLN,Conectividade à REMEP,#2290,REMEP-FLN,992.000,996.000,1.000.000,999.981,1.000.000,998.839
+6,CERTI,Inovalab,Disponibilidade CERTI Inovalab,REMEP-FLN,Conectividade à REMEP,#7352,REMEP-FLN,996.000,998.500,1.000.000,999.966,1.000.000,999.955
+7,CERTI,Sede,Disponibilidade CERTI Sede,REMEP-FLN,Conectividade à REMEP,#7302,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.989
+8,CI,Blumenau / GENE,Disponibilidade: Instituto GENE,REMEP-BNU,Conectividade à REMEP-BLUMENAU,-,REMEP-BNU,992.000,995.000,998.333,999.861,998.333,999.757
+9,CI,Pollen Parque Científico e Tecnológico Chapecó,Disponibilidade: Pollen Parque Chapecó,REMEP-CCO,Conectividade à REMEP CHAPECÓ,-,REMEP-CCO,996.000,998.500,1.000.000,999.879,1.000.000,999.649
+10,CIASC,Sede,Disponibilidade CIASC Sede,REMEP-FLN,Conectividade à REMEP,#7339,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.991
+11,Cidasc,Sede,Disponibilidade CIDASC Sede,REMEP-FLN,Conectividade à REMEP,#7322,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.991
+12,Cidasc,São José,Disponibilidade CIDASC São José,REMEP-FLN,Conectividade à REMEP,#7360,REMEP-FLN,996.000,998.500,1.000.000,999.987,1.000.000,999.330
+13,EBSERH,Hospital Universitário Polydoro Ernani de São Thiago,Disponibilidade UFSC HU,REMEP-FLN,Conectividade à REMEP,#7306,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.989
+14,Embrapa,Embrapa Concórdia,Disponibilidade Unidade: EMBRAPA Concórdia,RNP,Conectividade via RNP,3639,ALT,996.000,996.000,999.699,999.942,999.699,999.897
+15,Epagri,EPAGRI CEPAF Chapecó,Disponibilidade: Epagri CEPAF Chapecó,REMEP-CCO,Conectividade à REMEP CHAPECÓ,-,REMEP-CCO,996.000,998.500,1.000.000,999.865,989.144,998.951
+16,Epagri,EPAGRI Escritório Chapecó,Disponibilidade EPAGRI Escritório,REMEP-CCO,Conectividade à REMEP CHAPECÓ,-,REMEP-CCO,996.000,998.500,999.851,996.077,999.851,995.939
+17,Epagri,Sede,Disponibilidade EPAGRI Sede,REMEP-FLN,Conectividade à REMEP,#7309,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.965
+18,Epagri,São José,Disponibilidade EPAGRI São José,REMEP-FLN,Conectividade à REMEP,#7361,REMEP-FLN,996.000,998.500,1.000.000,999.987,1.000.000,999.330
+19,Estácio,Florianópolis,Disponibilidade ESTÁCIO Florianópolis,REMEP-FLN,Conectividade à REMEP,#7326,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,991.621
+20,Estácio,São José,Disponibilidade ESTÁCIO São José,REMEP-FLN,Conectividade à REMEP,#7341,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.989
+21,FEESC,Bridge/UFSC,Disponibilidade FEESC LabBridge,REMEP-FLN,Conectividade à REMEP,#7307,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.373
+22,FEESC,FEESC Sede,Disponibilidade FEESC Sede,REMEP-FLN,Conectividade à REMEP,#7344,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.989
+23,FEPESE,LabTrans Max & Flora,Disponibilidade FEPESE LabTrans,REMEP-FLN,Conectividade à REMEP,-,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.373
+24,FEPESE,Laboratório Max & Flora,Disponibilidade FEPESE Laboratório,REMEP-FLN,Conectividade à REMEP,#2285,REMEP-FLN,996.000,998.500,1.000.000,997.493,1.000.000,997.493
+25,FEPESE,Sede,Disponibilidade FEPESE Sede,REMEP-FLN,Conectividade à REMEP,#7327,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.989
+26,FURB,FURB - Campus I,Disponibilidade: FURB Blumenau,REMEP-BNU,Conectividade à REMEP-BLUMENAU,-,REMEP-BNU,996.000,998.500,1.000.000,999.869,1.000.000,999.770
+27,Fapesc,Sede,Disponibilidade FAPESC Sede,REMEP-FLN,Conectividade à REMEP,#7330,REMEP-FLN,996.000,998.500,1.000.000,999.749,1.000.000,999.732
+28,Fiesc,IEL CEEL,Disponibilidade FIESC CEEL/IEL,REMEP-FLN,Conectividade à REMEP,#7356,REMEP-FLN,996.000,998.500,1.000.000,999.246,1.000.000,999.019
+29,Fiesc,Instituto SENAI de Inovação em Sistemas Embarcados,Disponibilidade FIESC SENAI ISI,REMEP-FLN,Conectividade à REMEP,#7321,REMEP-FLN,992.000,996.000,1.000.000,1.000.000,1.000.000,999.978
+30,Fiesc,SENAI Florianópolis (CTAI),Disponibilidade FIESC SENAI CTAI,REMEP-FLN,Conectividade à REMEP,#7320,REMEP-FLN,996.000,998.500,1.000.000,999.749,1.000.000,984.214
+31,Fiesc,SENAI Palhoça,Disponibilidade FIESC SENAI Palhoça,REMEP-FLN,Conectividade à REMEP,#7329,REMEP-FLN,996.000,998.500,1.000.000,995.070,1.000.000,994.804
+32,Fiesc,SENAI São José,Disponibilidade FIESC SENAI São José,REMEP-FLN,Conectividade à REMEP,#7335,REMEP-FLN,992.000,996.000,1.000.000,1.000.000,1.000.000,998.384
+33,Fiesc,SESI São José,Disponibilidade FIESC SESI São José,REMEP-FLN,Conectividade à REMEP,#7343,REMEP-FLN,996.000,998.500,1.000.000,995.447,1.000.000,995.054
+34,Fiesc,Sede,Disponibilidade FIESC Sede,REMEP-FLN,Conectividade à REMEP,#7332,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.875
+35,HC,Hospital da Criança,Disponibilidade: HC Chapecó,REMEP-CCO,Conectividade à REMEP CHAPECÓ,-,REMEP-CCO,992.000,995.000,1.000.000,988.950,1.000.000,988.592
+36,HRO,HRO Chapecó,Disponibilidade: HRO Chapecó,REMEP-CCO,Conectividade à REMEP CHAPECÓ,-,REMEP-CCO,992.000,995.000,1.000.000,999.978,1.000.000,999.978
+37,IFC,Abelardo Luz,Disponibilidade Unidade: IFC Abelardo Luz,RNP,Conectividade via RNP,3644,ALT,996.000,996.000,1.000.000,989.284,935.602,976.348
+38,IFC,Araquari,Disponibilidade Unidade: IFC Araquari,RNP,Conectividade via RNP,3504,ALT,996.000,996.000,1.000.000,999.942,1.000.000,983.208
+39,IFC,Brusque,Disponibilidade Unidade: IFC Brusque,RNP,Conectividade via RNP,3645,ALT,996.000,996.000,999.421,999.952,999.421,999.875
+40,IFC,Camboriú,Disponibilidade Unidade: IFC Camboriu,RNP,Conectividade via RNP,3503,ALT,996.000,996.000,991.250,996.823,988.796,977.425
+41,IFC,Concórdia,Disponibilidade Unidade: IFC Concordia,RNP,Conectividade via RNP,3706,ALT,996.000,996.000,1.000.000,997.694,1.000.000,996.717
+42,IFC,Fraiburgo,Disponibilidade Unidade: IFC Fraiburgo,RNP,Conectividade via RNP,3910,MHNET,996.000,996.000,1.000.000,998.115,1.000.000,998.100
+43,IFC,IFC Blumenau,Disponibilidade: IFC Blumenau,REMEP-BNU,Conectividade à REMEP BLUMENAU,-,REMEP-BNU,996.000,998.500,1.000.000,999.909,1.000.000,998.550
+44,IFC,IFC Reitoria,Disponibilidade: IFC Reitoria,REMEP-BNU,Conectividade à REMEP BLUMENAU,-,REMEP-BNU,996.000,998.500,1.000.000,999.911,1.000.000,999.669
+45,IFC,IFC Reitoria Anexo,Disponibilidade: IFC Anexo,REMEP-BNU,Conectividade à REMEP BLUMENAU,-,REMEP-BNU,992.000,995.000,1.000.000,1.000.000,1.000.000,1.000.000
+46,IFC,Ibirama,Disponibilidade Unidade: IFC Ibirama,RNP,Conectividade via RNP,3602,ALT,996.000,996.000,995.185,998.755,994.861,998.523
+47,IFC,Luzerna,Disponibilidade Unidade: IFC Luzerna,"RCT,RNP",Conectividade via RNP e RCT,"3709, 8002",ALT,996.000,996.000,1.000.000,999.985,1.000.000,997.819
+48,IFC,Rio do Sul - Sede,Disponibilidade Unidade: IFC Rio Do Sul - Sede,RNP,Conectividade via RNP,3508,ALT,996.000,996.000,1.000.000,998.693,1.000.000,998.693
+49,IFC,Rio do Sul - Tecnológica,Disponibilidade Unidade: IFC Rio Do Sul - Unidade Tecnológica,RNP,Conectividade via RNP,3646,ALT,996.000,996.000,1.000.000,999.535,1.000.000,999.526
+50,IFC,Rio do Sul - Urbana,Disponibilidade Unidade: IFC Rio Do Sul - Urbana,"RCT,RNP",Conectividade via RNP e RCT,"3612, 8013",ALT,996.000,996.000,1.000.000,996.245,1.000.000,996.234
+51,IFC,Santa Rosa,Disponibilidade Unidade: IFC Santa Rosa,RNP,Conectividade via RNP,3807,ALT,996.000,996.000,999.838,999.932,999.329,996.536
+52,IFC,Sombrio,Disponibilidade Unidade: IFC Sombrio,RNP,Conectividade via RNP,3811,ALT,996.000,996.000,1.000.000,1.000.000,1.000.000,999.974
+53,IFC,São Bento do Sul,Disponibilidade Unidade: IFC Sao Bento Do Sul,RNP,Conectividade via RNP,3642,ALT,996.000,996.000,1.000.000,999.998,1.000.000,999.998
+54,IFC,São Francisco,Disponibilidade Unidade: IFC Sao Francisco Do Sul,RNP,Conectividade via RNP,3505,ALT,996.000,996.000,999.838,997.829,999.838,996.255
+55,IFC,Videira,Disponibilidade Unidade: IFC Videira,RNP,Conectividade via RNP,3613,ALT,996.000,996.000,1.000.000,999.727,1.000.000,999.624
+56,IFSC,Araranguá,Disponibilidade Unidade: IFSC Araranguá,RNP,Conectividade via RNP,3714,ALT,996.000,996.000,1.000.000,1.000.000,1.000.000,1.000.000
+57,IFSC,Canoinhas,Disponibilidade Unidade: IFSC Canoinhas,RNP,Conectividade via RNP,3615,ALT,996.000,996.000,1.000.000,999.996,1.000.000,999.968
+58,IFSC,Caçador,Disponibilidade Unidade: IFSC Caçador,"RCT,RNP",Conectividade via RNP e RCT,"8003,3724",ALT,996.000,996.000,1.000.000,996.050,1.000.000,995.996
+59,IFSC,Chapecó,Disponibilidade: IFSC Chapecó,REMEP-CCO,Conectividade à REMEP CHAPECÓ,-,REMEP-CCO,996.000,998.500,1.000.000,999.906,1.000.000,999.863
+60,IFSC,Criciúma,Disponibilidade Unidade: IFSC Criciúma,"RCT,RNP",Conectividade via RNP e RCT,"3517,8004",ALT,996.000,996.000,1.000.000,999.998,1.000.000,999.989
+61,IFSC,Florianópolis,Disponibilidade IFSC Florianópolis,REMEP-FLN,Conectividade à REMEP,#7314,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.960
+62,IFSC,Garopaba,Disponibilidade Unidade: IFSC Garopaba,RNP,Conectividade via RNP,3725,ALT,996.000,996.000,1.000.000,998.696,1.000.000,997.974
+63,IFSC,Gaspar,Disponibilidade: IFSC Gaspar,REMEP-BNU,Conectividade à REMEP BLUMENAU,-,REMEP-BNU,996.000,998.500,1.000.000,999.911,1.000.000,999.900
+64,IFSC,Itajaí,Disponibilidade Unidade: IFSC Itajaí,RNP,Conectividade via RNP,3519,ALT,996.000,996.000,1.000.000,993.399,1.000.000,993.388
+65,IFSC,Jaraguá do Sul (RAU),Disponibilidade Unidade: IFSC Jaraguá Do Sul - Rau,"RCT,RNP",Conectividade via RNP e RCT,"3626,8005",ALT,996.000,996.000,999.838,999.985,999.838,998.774
+66,IFSC,Jaraguá do Sul - Sede,Disponibilidade Unidade: IFSC Jaraguá Do Sul - Sede,"RCT,RNP",Conectividade via RNP e RCT,"3520,8006",ALT,996.000,996.000,1.000.000,999.983,1.000.000,993.605
+67,IFSC,Joinville,Disponibilidade Unidade: IFSC Joinville,RNP,Conectividade via RNP,3521,ALT,996.000,996.000,1.000.000,998.846,1.000.000,998.764
+68,IFSC,Lages,Disponibilidade Unidade: IFSC Lages,"RCT,RNP",Conectividade via RNP e RCT,"3522,8007",ALT,996.000,996.000,1.000.000,999.941,996.713,995.237
+69,IFSC,Palhoça,Disponibilidade IFSC Palhoça,REMEP-FLN,Conectividade à REMEP,#7316,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,998.166
+70,IFSC,Reitoria,Disponibilidade IFSC Reitoria,REMEP-FLN,Conectividade à REMEP,#7334,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.989
+71,IFSC,São Carlos,Disponibilidade Unidade: IFSC São Carlos,RNP,Conectividade via RNP,3929,ALT,996.000,996.000,999.491,996.699,999.491,995.169
+72,IFSC,São José,Disponibilidade IFSC São José,REMEP-FLN,Conectividade à REMEP,#7313,REMEP-FLN,996.000,998.500,1.000.000,999.941,1.000.000,999.941
+73,IFSC,São Lourenço,Disponibilidade Unidade: IFSC São Lourenço,RNP,Conectividade via RNP,3653,ALT,996.000,996.000,1.000.000,999.158,1.000.000,999.144
+74,IFSC,São Miguel do Oeste,Disponibilidade Unidade: IFSC São Miguel do Oeste,"RCT,RNP",Conectividade via RNP e RCT,"3823,8009",ALT,996.000,996.000,1.000.000,999.998,1.000.000,998.927
+75,IFSC,Tubarão,Disponibilidade Unidade: IFSC Tubarão,RNP,Conectividade via RNP,3641,ALT,996.000,996.000,1.000.000,999.153,1.000.000,998.759
+76,IFSC,Urupema,Disponibilidade Unidade: IFSC Urupema,RNP,Conectividade via RNP,3727,ALT,996.000,996.000,1.000.000,999.287,1.000.000,994.379
+77,IFSC,Xanxerê,Disponibilidade Unidade: IFSC Xanxerê,"RCT,RNP",Conectividade via RNP e RCT,"3928,8012",ALT,996.000,996.000,1.000.000,1.000.000,1.000.000,999.327
+78,IMETRO,Sede,Disponibilidade IMETRO,REMEP-FLN,Conectividade à REMEP,#7324,REMEP-FLN,996.000,998.500,1.000.000,998.525,1.000.000,998.170
+79,PMB,SEMED,Disponibilidade: Prefeitura Municipal de Blumenau,REMEP-BNU,Conectividade à REMEP BLUMENAU,-,REMEP-BNU,996.000,998.500,1.000.000,999.641,1.000.000,999.630
+80,SME,Núcleo de Tecnologia da Educação - Polo UAB Florianópolis,Disponibilidade SME NTE,REMEP-FLN,Conectividade à REMEP,#7337,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.956
+81,UDESC,Academia,Disponibilidade UDESC Academia,REMEP-FLN,Conectividade à REMEP,-,REMEP-FLN,992.000,996.000,1.000.000,1.000.000,1.000.000,1.000.000
+82,UDESC,Centro de Ciências da Saúde e do Esporte,Disponibilidade UDESC CEFID,REMEP-FLN,Conectividade à REMEP,#7317,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.578
+83,UDESC,Instituto de Documentação e Investigação em Ciências Humanas,Disponibilidade UDESC IDCH,REMEP-FLN,Conectividade à REMEP,#7318,REMEP-FLN,996.000,998.500,1.000.000,999.910,1.000.000,997.820
+84,UDESC,Museu da Escola Catarinense,Disponibilidade UDESC Museu,REMEP-FLN,Conectividade à REMEP,#7319,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,998.912,999.493
+85,UDESC,Reitoria,Disponibilidade UDESC Reitoria,REMEP-FLN,Conectividade à REMEP,#7333,REMEP-FLN,996.000,998.500,1.000.000,999.641,1.000.000,999.630
+86,UDESC,Site Backup,Disponibilidade UDESC Site Backup,REMEP-FLN,Conectividade à REMEP,#7336,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.991
+87,UDESC,Transmissor da Radio UDESC FM,Disponibilidade UDESC Radio,REMEP-FLN,Conectividade à REMEP,#7366,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,998.611,990.655
+88,UDESC,UDESC Enfermagem,Disponibilidade: UDESC Enfermagem,REMEP-CCO,Conectividade à REMEP CHAPECÓ,-,REMEP-CCO,996.000,998.500,999.954,996.332,999.954,996.176
+89,UDESC,UDESC Zootecnica,Disponibilidade: UDESC Zootecnia,REMEP-CCO,Conectividade à REMEP CHAPECÓ,-,REMEP-CCO,996.000,998.500,999.954,999.718,995.023,998.239
+90,UFFS,UFFS Ambulatório Chapecó,Disponibilidade: UFFS Ambulatório Chapecó,REMEP-CCO,Conectividade à REMEP CHAPECÓ,-,REMEP-CCO,992.000,995.000,999.861,999.518,999.861,997.086
+91,UFFS,UFFS Chapecó,Disponibilidade: UFFS SEDE Chapecó,REMEP-CCO,Conectividade à REMEP CHAPECÓ,-,REMEP-CCO,992.000,995.000,1.000.000,999.907,1.000.000,999.898
+92,UFSC,Araranguá - Jardim das Avenidas,Disponibilidade Unidade: UFSC Araranguá - Jardim Das Avenidas,RCT,Conectividade via RCT,8026,ALGAR-RCT,996.000,998.500,1.000.000,999.729,1.000.000,999.476
+93,UFSC,Araranguá - Mato Alto,Disponibilidade Unidade: UFSC Araranguá - Mato Alto,RNP,Conectividade via RNP,3651,ALT,996.000,996.000,1.000.000,1.000.000,1.000.000,999.873
+94,UFSC,Centro de Ciências Agrárias,Disponibilidade UFSC CCA,REMEP-FLN,Conectividade à REMEP,#7305,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.902
+95,UFSC,Cidade das Abelhas,Disponibilidade UFSC Cidade das Abelhas,REMEP-FLN,Conectividade à REMEP,#7350,REMEP-FLN,996.000,998.500,1.000.000,999.751,1.000.000,999.732
+96,UFSC,CocreationLAB (Campeche),Disponibilidade UFSC CocreationLAB,REMEP-FLN,Conectividade à REMEP,#7325,REMEP-FLN,996.000,998.500,1.000.000,999.246,1.000.000,999.019
+97,UFSC,Curitibanos (Sede),Disponibilidade Unidade (Falha): UFSC Curitibanos SEDE,RNP,Conectividade via RNP e RCT,"3632, 8008",-,996.000,998.500,1.000.000,999.996,1.000.000,996.854
+98,UFSC,Data Center SETIC,Disponibilidade UFSC Florianópolis,REMEP-FLN,Conectividade à REMEP,#7331,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.989
+99,UFSC,Fazenda Ressacada,Disponibilidade UFSC Ressacada,REMEP-FLN,Conectividade à REMEP,#7304,REMEP-FLN,996.000,998.500,1.000.000,999.994,1.000.000,999.985
+100,UFSC,Fotovoltaica,Disponibilidade UFSC Fotovoltaica,REMEP-FLN,Conectividade à REMEP,#7319,REMEP-FLN,996.000,998.500,1.000.000,999.993,1.000.000,999.812
+101,UFSC,Joinville,Disponibilidade Unidade: UFSC Joinville,"RCT,RNP",Conectado via RNP e RCT,"3730, 8106",-,996.000,998.500,1.000.000,999.998,1.000.000,999.964
+102,UFSC,Laboratório de Biologia e Cultivo de Peixes de Água Doce,Disponibilidade UFSC LAPAD,REMEP-FLN,Conectividade à REMEP,#7303,REMEP-FLN,996.000,998.500,1.000.000,999.376,1.000.000,999.108
+103,UFSC,Laboratório de Camarões Marinhos,Disponibilidade UFSC LCM,REMEP-FLN,Conectividade à REMEP,#7338,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,999.931,999.728
+104,UFSC,Moradia Estudantil,Disponibilidade UFSC Moradia Estudantil,REMEP-FLN,Conectividade à REMEP,#7364,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.905
+105,UFSC,Núcleo de Estudos em Patologia Aquícola,Disponibilidade UFSC NEPAQ,REMEP-FLN,Conectividade à REMEP,#7348,REMEP-FLN,992.000,996.000,1.000.000,999.749,1.000.000,999.333
+106,UFSC,Reitoria II,Disponibilidade UFSC Reitoria 2,REMEP-FLN,Conectividade à REMEP,#7365,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.606
+107,UFSC,Sala Cofre,Disponibilidade UFSC Sala Cofre,REMEP-FLN,Conectividade à REMEP,#7300,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.989
+108,UFSC,Sambaqui (LMM),Disponibilidade Sambaqui [LMM},RCT,Conectividade à REMEP,8105,ALGAR-RCT,994.400,994.400,998.380,997.913,977.387,996.085
+109,UFSC,Secretaria de Educação a Distância,Disponibilidade UFSC SEAD,REMEP-FLN,Conectividade à REMEP,#7345,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.981
+110,UFSC,TV UFSC,Disponibilidade UFSC TV,REMEP-FLN,Conectividade à REMEP,#7340,REMEP-FLN,996.000,998.500,1.000.000,994.632,999.931,993.717
+111,UFSC,UFSC Blumenau Acadêmico,Disponibilidade: UFSC Acadêmico,REMEP-BNU,Conectividade à REMEP BLUMENAU,-,REMEP-BNU,996.000,998.500,1.000.000,999.911,1.000.000,999.465
+112,UFSC,UFSC Blumenau Sede,Disponibilidade: UFSC Blumenau SEDE,REMEP-BNU,Conectividade à REMEP BLUMENAU,-,REMEP-BNU,996.000,998.500,1.000.000,999.906,999.028,998.978
+113,UNISOCIESC,Anita Garibaldi (Joinville),Disponibilidade UNISOCIESC Anita Garibaldi (Joinville),REMEP-FLN,Conectividade à REMEP,#5745,REMEP-FLN,994.000,995.000,1.000.000,998.997,999.884,998.295
+114,UNISOCIESC,Blumenau,Disponibilidade UNISOCIESC Blumenau,REMEP-FLN,Conectividade à REMEP,#5747,REMEP-FLN,994.000,995.000,1.000.000,998.626,1.000.000,997.481
+115,UNISOCIESC,Campus Park (Joinville),Disponibilidade UNISOCIESC Campus Park (Joinville),REMEP-FLN,Conectividade à REMEP,#5746,REMEP-FLN,994.000,995.000,1.000.000,1.000.000,1.000.000,998.939
+116,UNISOCIESC,Jaraguá do Sul,Disponibilidade UNISOCIESC Jaraguá do Sul,REMEP-FLN,Conectividade à REMEP,#5748,REMEP-FLN,994.000,995.000,1.000.000,999.993,1.000.000,999.213
+117,UNISOCIESC,São Bento do Sul,Disponibilidade UNISOCIESC São Bento do Sul,REMEP-FLN,Conectividade à REMEP,#5744,REMEP-FLN,994.000,995.000,1.000.000,1.000.000,1.000.000,952.731
+118,UNO,Unochapecó,Disponibilidade: Unochapecó Sede,REMEP-CCO,Conectividade à REMEP CHAPECÓ,-,REMEP-CCO,992.000,995.000,1.000.000,1.000.000,1.000.000,1.000.000
+119,UNOESC,UNOESC Chapecó,Disponibilidade: UNOESC Chapecó,REMEP-CCO,Conectividade à REMEP CHAPECÓ,-,REMEP-CCO,996.000,998.500,1.000.000,996.489,1.000.000,994.380
+120,UniPRF,Sede,Disponibilidade uniPRF,REMEP-FLN,Conectividade à REMEP,#7301,REMEP-FLN,996.000,998.500,1.000.000,999.714,1.000.000,999.709
+121,Unisinos,Colégio Catarinense,Disponibilidade UNISINOS,REMEP-FLN,Conectividade à REMEP,#7323,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.981
+122,Unisul,Ambulatório,Disponibilidade UNISUL Ambulatório,REMEP-FLN,Conectividade à REMEP,#7351,REMEP-FLN,992.000,996.000,1.000.000,999.978,1.000.000,998.118
+123,Unisul,Araranguá,Disponibilidade Unisul Araranguá,REMEP-FLN,Conectividade à REMEP,#5741,REMEP-FLN,994.000,995.000,1.000.000,999.797,999.352,991.131
+124,Unisul,Braço do Norte,Disponibilidade Unisul Braço do Norte,REMEP-FLN,Conectividade à REMEP,#5742,REMEP-FLN,994.000,995.000,1.000.000,999.998,1.000.000,999.565
+125,Unisul,Criciúma,Disponibilidade Unisul Criciúma,REMEP-FLN,Conectividade à REMEP,#5743,REMEP-FLN,994.000,995.000,1.000.000,999.527,1.000.000,999.068
+126,Unisul,Dib Mussi,Disponibilidade UNISUL Dib Mussi,REMEP-FLN,Conectividade à REMEP,#7311,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.537
+127,Unisul,Florianópolis Continente,Disponibilidade UNISUL Florianópolis Continente,REMEP-FLN,Conectividade à REMEP,#7347,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,997.484
+128,Unisul,Itajaí,Disponibilidade Unisul Itajaí,REMEP-FLN,Conectividade à REMEP,#5749,REMEP-FLN,994.000,995.000,1.000.000,999.996,1.000.000,998.163
+129,Unisul,Palhoça,Disponibilidade UNISUL Palhoça,REMEP-FLN,Conectividade à REMEP,#7310,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.989
+130,Unisul,Ponto de Concentração de Unidades Remotas,Disponibilidade Ponto de Concentração de Unidades Remotas,REMEP-FLN,Conectividade à REMEP,-,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.989
+131,Unisul,Rio Branco (Dib Mussi - Anexo B),Disponibilidade UNISUL Rio Branco (Dib Mussi - Anexo B),REMEP-FLN,Conectividade à REMEP,#7346,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.102
+132,Unisul,Tubarão,Disponibilidade Unisul Tubarão,REMEP-FLN,Conectividade à REMEP,#5740,REMEP-FLN,994.000,995.000,1.000.000,1.000.000,1.000.000,999.858
+133,Univali,UNIVALI Itajaí,Disponibilidade UNIVALI Itajaí,REMEP-FLN,Conectividade à REMEP,#7353,REMEP-FLN,992.000,996.000,1.000.000,999.904,1.000.000,999.891
+134,Univille,Univille Sede,Disponibilidade UNIVILLE Sede,REMEP-FLN,Conectividade à REMEP,#7354,REMEP-FLN,992.000,996.000,1.000.000,999.985,1.000.000,999.946
