@@ -1,6 +1,3 @@
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
 Seq.,Organização,Unidade,Monitoramento,Iniciativas,Serviço,"Designador do 
  Serviço","Mantenedor do 
  Serviço",Valor acordado do SLA (%),,IDS (%),,IDSA (%),
@@ -141,4 +138,5 @@ Seq.,Organização,Unidade,Monitoramento,Iniciativas,Serviço,"Designador do
 131,Unisul,Rio Branco (Dib Mussi - Anexo B),Disponibilidade UNISUL Rio Branco (Dib Mussi - Anexo B),REMEP-FLN,Conectividade à REMEP,#7346,REMEP-FLN,996.000,998.500,1.000.000,1.000.000,1.000.000,999.102
 132,Unisul,Tubarão,Disponibilidade Unisul Tubarão,REMEP-FLN,Conectividade à REMEP,#5740,REMEP-FLN,994.000,995.000,1.000.000,1.000.000,1.000.000,999.858
 133,Univali,UNIVALI Itajaí,Disponibilidade UNIVALI Itajaí,REMEP-FLN,Conectividade à REMEP,#7353,REMEP-FLN,992.000,996.000,1.000.000,999.904,1.000.000,999.891
+
 134,Univille,Univille Sede,Disponibilidade UNIVILLE Sede,REMEP-FLN,Conectividade à REMEP,#7354,REMEP-FLN,992.000,996.000,1.000.000,999.985,1.000.000,999.946
