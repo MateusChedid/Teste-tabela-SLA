@@ -1,4 +1,4 @@
-Seq.,Organização,Unidade,Monitoramento,Iniciativas,Serviço,"Designador do 
+Seq,Organização,Unidade,Monitoramento,Iniciativas,Serviço,"Designador do 
 Serviço","Mantenedor do 
 Serviço",Valor acordado do SLA (%),,IDS (%),,IDSA (%),
 ,,,,,,,,Mensal,"Acumulado 
@@ -145,4 +145,5 @@ Mensal: Representa IDS e IDSA para o mês corrente
 Acumulado 12 meses: Representa o IDS e IDSA acumulado para período dos últimos 12 meses, incluindo o mês corrente (se não houver dados históricos de 12 meses, será considerado o período com dados mais antigos)",,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 Emissão: 14/10/2025 às 13:52,,,,,,,,,,,,,
+
 
